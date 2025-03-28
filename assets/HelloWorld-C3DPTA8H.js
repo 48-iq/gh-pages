@@ -1,1 +1,0 @@
-import{c as l,a as c,o as s}from"./index-8oS7fXZL.js";const a=(o,e)=>{const t=o.__vccOpts||o;for(const[r,n]of e)t[r]=n;return t},_={};function d(o,e){return s(),l("div",null,e[0]||(e[0]=[c("h1",null,"Hello World",-1)]))}const u=a(_,[["render",d]]);export{u as default};
